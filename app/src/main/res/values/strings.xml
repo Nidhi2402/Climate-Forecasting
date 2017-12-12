@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="any_location">Type any location</string>
+</resources>
